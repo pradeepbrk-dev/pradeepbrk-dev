@@ -47,7 +47,7 @@ public class AllocationsApplication implements SampleApplication {
 
     @Override
     public String toString() {
-        String bac="abc";
+        String bac="abczxzxzxzx";
         return "AllocationsApplication{" +
                 "max=" + max +
                 '}';
